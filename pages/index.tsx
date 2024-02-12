@@ -4,7 +4,7 @@ import type { InferGetServerSidePropsType, GetServerSideProps } from "next";
 import { useEffect, useState } from "react";
 import { CiCirclePlus, CiCircleMinus } from "react-icons/ci";
 import Select from "react-select";
-import { data } from "./data";
+import { data } from "../public/data";
 
 type ConnectionStatus = {
   isConnected: boolean;
