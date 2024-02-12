@@ -38,7 +38,7 @@ export const getServerSideProps: GetServerSideProps<
 export default function Home({
   isConnected,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
-  const [name, setName] = useState("");
+  const [name, setName] = useState<any | {}>({});
   const [stories, setStories] = useState(0);
   const [posts, setPosts] = useState([""]);
   const [message, setMessage] = useState(false);

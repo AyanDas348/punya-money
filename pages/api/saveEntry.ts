@@ -18,7 +18,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       console.error(e);
 
       // Respond with an error message
-      res.status(500).json({ success: false, error: e.message });
+      res.status(500).json({ success: false, error: e });
     }
   } else {
     // Respond with an error for unsupported HTTP methods
