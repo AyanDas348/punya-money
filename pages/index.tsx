@@ -42,6 +42,7 @@ export default function Home({
   const [stories, setStories] = useState(0);
   const [posts, setPosts] = useState([""]);
   const [message, setMessage] = useState(false);
+  const [month, setMonth] = useState<any>("Jan");
   const handleSubmit = async () => {
     try {
       const postLength = posts.filter((item) => item != "").length;
@@ -58,6 +59,7 @@ export default function Home({
           posts: postLength,
           reels: posts,
           amount: name.value.amount * (postLength + stories),
+          month: `${month} - ${new Date().getFullYear()}`,
         }),
       });
 
@@ -82,6 +84,21 @@ export default function Home({
     }
   };
 
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+
   return (
     <div className="container">
       <Head>
@@ -90,7 +107,7 @@ export default function Home({
       </Head>
 
       <main>
-        <div style={{ width: "25%", marginBottom: "20px" }}>
+        <div style={{ width: "min(100%, 700px)", marginBottom: "20px" }}>
           <h2 className="subtitle">Name:</h2>
           <Select
             value={name}
@@ -101,6 +118,17 @@ export default function Home({
             onChange={(e) => setName(e)}
           />
         </div>
+        <div style={{ width: "min(100%, 700px)", marginBottom: "20px" }}>
+          <h2 className="subtitle">Month of activity:</h2>
+          <Select
+            value={month}
+            options={months.map((item) => ({
+              value: item,
+              label: item,
+            }))}
+            onChange={(e) => setMonth(e)}
+          />
+        </div>
         <div
           style={{
             display: "flex",
@@ -109,9 +137,16 @@ export default function Home({
             alignItems: "center",
           }}
         >
-          <h2 className="subtitle">Number of stories posted:</h2> {stories}
-          <CiCirclePlus onClick={() => setStories(stories + 1)} />
-          <CiCircleMinus onClick={() => setStories(stories - 1)} />
+          <h2 className="subtitle">Number of stories posted:</h2>{" "}
+          <h2>{stories}</h2>
+          <CiCirclePlus
+            onClick={() => setStories(stories + 1)}
+            style={{ width: "30px", height: "30px" }}
+          />
+          <CiCircleMinus
+            onClick={() => setStories(stories - 1)}
+            style={{ width: "30px", height: "30px" }}
+          />
         </div>
         <div
           style={{
@@ -121,10 +156,15 @@ export default function Home({
             alignItems: "center",
           }}
         >
-          <h2 className="subtitle">Enter links for reels/posts: </h2> {posts.filter((item) => item != "").length}
-          <CiCirclePlus onClick={() => setPosts((prev) => [...prev, ""])} />
+          <h2 className="subtitle">Enter links for reels/posts: </h2>
+          <h2>{posts.filter((item) => item != "").length}</h2>
+          <CiCirclePlus
+            onClick={() => setPosts((prev) => [...prev, ""])}
+            style={{ width: "30px", height: "30px" }}
+          />
           <CiCircleMinus
             onClick={() => setPosts((prev) => prev.slice(0, -1))}
+            style={{ width: "30px", height: "30px" }}
           />
         </div>
         <div
@@ -158,7 +198,20 @@ export default function Home({
             />
           ))}
         </div>
-        <div onClick={() => handleSubmit()}>Submit</div>
+        <div
+          onClick={() => handleSubmit()}
+          style={{
+            backgroundColor: "blue",
+            color: "white",
+            border: "1px solid blue",
+            borderRadius: "10px",
+            padding: "10px 30px", // Adjust padding as needed
+            cursor: "pointer", // Show pointer cursor on hover
+            width: "fit-content"
+          }}
+        >
+          Submit
+        </div>
         <div style={{ visibility: `${message ? "visible" : "hidden"}` }}>
           Submitted
         </div>
