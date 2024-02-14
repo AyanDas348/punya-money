@@ -1,7 +1,7 @@
 import Head from "next/head";
 import clientPromise from "../lib/mongodb";
 import type { InferGetServerSidePropsType, GetServerSideProps } from "next";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { CiCirclePlus, CiCircleMinus } from "react-icons/ci";
 import Select from "react-select";
 import { data } from "../public/data";
@@ -85,16 +85,11 @@ export default function Home({
   return (
     <div className="container">
       <Head>
-        <title>PunyaSlok Panda</title>
+        <title>HYPE UP</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        {isConnected ? (
-          <h2 className="subtitle">You are connected</h2>
-        ) : (
-          <h2 className="subtitle">You are not connected.</h2>
-        )}
         <div style={{ width: "25%", marginBottom: "20px" }}>
           <h2 className="subtitle">Name:</h2>
           <Select
