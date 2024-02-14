@@ -121,7 +121,7 @@ export default function Home({
             alignItems: "center",
           }}
         >
-          <h2 className="subtitle">Enter links for reels/posts: </h2>
+          <h2 className="subtitle">Enter links for reels/posts: </h2> {posts.filter((item) => item != "").length}
           <CiCirclePlus onClick={() => setPosts((prev) => [...prev, ""])} />
           <CiCircleMinus
             onClick={() => setPosts((prev) => prev.slice(0, -1))}
