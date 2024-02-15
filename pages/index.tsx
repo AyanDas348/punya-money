@@ -42,7 +42,8 @@ export default function Home({
   const [stories, setStories] = useState(0);
   const [posts, setPosts] = useState([""]);
   const [message, setMessage] = useState(false);
-  const [month, setMonth] = useState<any>("Jan");
+  const [month, setMonth] = useState<String | any>("Jan");
+  console.log(month.value);
   const handleSubmit = async () => {
     try {
       const postLength = posts.filter((item) => item != "").length;
@@ -59,7 +60,7 @@ export default function Home({
           posts: postLength,
           reels: posts,
           amount: name.value.amount * (postLength + stories),
-          month: `${month} - ${new Date().getFullYear()}`,
+          month: `${month.value} - ${new Date().getFullYear()}`,
         }),
       });
 
@@ -207,7 +208,7 @@ export default function Home({
             borderRadius: "10px",
             padding: "10px 30px", // Adjust padding as needed
             cursor: "pointer", // Show pointer cursor on hover
-            width: "fit-content"
+            width: "fit-content",
           }}
         >
           Submit
