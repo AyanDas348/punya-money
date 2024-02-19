@@ -1,622 +1,622 @@
 export const data = [
     {
-        "Email address": "bedaachrya@gmail.com",
-        "Full Name": "Beda bhusan Acharya ",
-        "Amount": 3500
+        "email": "bedaachrya@gmail.com",
+        "name": "Beda bhusan Acharya ",
+        "amount": 3500
     },
     {
-        "Email address": "ankitamohanty205@gmail.com",
-        "Full Name": "Ankita Mohanty ",
-        "Amount": 8000
+        "email": "ankitamohanty205@gmail.com",
+        "name": "Ankita Mohanty ",
+        "amount": 8000
     },
     {
-        "Email address": "Priyankasatapathy7809@gmail.com",
-        "Full Name": "Priyanka Satapathy",
-        "Amount": 5000
+        "email": "Priyankasatapathy7809@gmail.com",
+        "name": "Priyanka Satapathy",
+        "amount": 5000
     },
     {
-        "Email address": "swaesumanpasayat@gmail.com",
-        "Full Name": "Sweta Suman Pasayat",
-        "Amount": 5000
+        "email": "swaesumanpasayat@gmail.com",
+        "name": "Sweta Suman Pasayat",
+        "amount": 5000
     },
     {
-        "Email address": "pmukeshranjan11@gmail.com",
-        "Full Name": "Mukesh Ranjan Pradhan",
-        "Amount": 2000
+        "email": "pmukeshranjan11@gmail.com",
+        "name": "Mukesh Ranjan Pradhan",
+        "amount": 2000
     },
     {
-        "Email address": "amlanchhotaray3@gmail.com",
-        "Full Name": "Amlan Chhotaray ",
-        "Amount": 1500
+        "email": "amlanchhotaray3@gmail.com",
+        "name": "Amlan Chhotaray ",
+        "amount": 1500
     },
     {
-        "Email address": "subhampandia123@gmail.com",
-        "Full Name": "Subham  Pandia ",
-        "Amount": 1500
+        "email": "subhampandia123@gmail.com",
+        "name": "Subham  Pandia ",
+        "amount": 1500
     },
     {
-        "Email address": "pradyumna12rta@gmail.com",
-        "Full Name": "Pradyumna Kumar Biswal ",
-        "Amount": 3500
+        "email": "pradyumna12rta@gmail.com",
+        "name": "Pradyumna Kumar Biswal ",
+        "amount": 3500
     },
     {
-        "Email address": "saisaswat515@gmail.com",
-        "Full Name": "Saswat Brahma",
-        "Amount": 800
+        "email": "saisaswat515@gmail.com",
+        "name": "Saswat Brahma",
+        "amount": 800
     },
     {
-        "Email address": "crronaldo0888@gmail.com",
-        "Full Name": "Chandan Hantal",
-        "Amount": 4000
+        "email": "crronaldo0888@gmail.com",
+        "name": "Chandan Hantal",
+        "amount": 4000
     },
     {
-        "Email address": "work.shreyajoshi@gmail.com",
-        "Full Name": "Shreya Joshi ",
-        "Amount": 7000
+        "email": "work.shreyajoshi@gmail.com",
+        "name": "Shreya Joshi ",
+        "amount": 7000
     },
     {
-        "Email address": "achyutdeepanpattanaik@gmail.com",
-        "Full Name": "Achyut Deepan Pattanaik",
-        "Amount": 1500
+        "email": "achyutdeepanpattanaik@gmail.com",
+        "name": "Achyut Deepan Pattanaik",
+        "amount": 1500
     },
     {
-        "Email address": "pragyanpalai65@gmail.com",
-        "Full Name": "Pragyan p palai ",
-        "Amount": 800
+        "email": "pragyanpalai65@gmail.com",
+        "name": "Pragyan p palai ",
+        "amount": 800
     },
     {
-        "Email address": "abhisekswain19@gmail.com",
-        "Full Name": "Abhisek Swain",
-        "Amount": 2500
+        "email": "abhisekswain19@gmail.com",
+        "name": "Abhisek Swain",
+        "amount": 2500
     },
     {
-        "Email address": "meheksworld22@gmail.com",
-        "Full Name": "Mehek Mohapatra",
-        "Amount": 4000
+        "email": "meheksworld22@gmail.com",
+        "name": "Mehek Mohapatra",
+        "amount": 4000
     },
     {
-        "Email address": "elizarath12345@gmail.com",
-        "Full Name": "Eliza Rath ",
-        "Amount": 1200
+        "email": "elizarath12345@gmail.com",
+        "name": "Eliza Rath ",
+        "amount": 1200
     },
     {
-        "Email address": "arunsahu.kiit@gmail.com",
-        "Full Name": "Arun Sahu",
-        "Amount": 5000
+        "email": "arunsahu.kiit@gmail.com",
+        "name": "Arun Sahu",
+        "amount": 5000
     },
     {
-        "Email address": "anuraagsriram2010@gmail.com",
-        "Full Name": "Anuraag Sriram Swaro",
-        "Amount": 500
+        "email": "anuraagsriram2010@gmail.com",
+        "name": "Anuraag Sriram Swaro",
+        "amount": 500
     },
     {
-        "Email address": "editworld1999@gmail.com",
-        "Full Name": "Suraj Kumar Dalai ",
-        "Amount": 700
+        "email": "editworld1999@gmail.com",
+        "name": "Suraj Kumar Dalai ",
+        "amount": 700
     },
     {
-        "Email address": "routsatyajit56@gmail.com",
-        "Full Name": "Satyajit rout",
-        "Amount": 2500
+        "email": "routsatyajit56@gmail.com",
+        "name": "Satyajit rout",
+        "amount": 2500
     },
     {
-        "Email address": "mostlyodisha@gmail.com",
-        "Full Name": "Ankur Ghosh",
-        "Amount": 1000
+        "email": "mostlyodisha@gmail.com",
+        "name": "Ankur Ghosh",
+        "amount": 1000
     },
     {
-        "Email address": "sriyansupradhan17@gmail.com",
-        "Full Name": "Sriyansu Pradhan",
-        "Amount": 1500
+        "email": "sriyansupradhan17@gmail.com",
+        "name": "Sriyansu Pradhan",
+        "amount": 1500
     },
     {
-        "Email address": "rajeevsahoo2000@gmail.com",
-        "Full Name": "Rajeev Kumar Sahoo ",
-        "Amount": 3000
+        "email": "rajeevsahoo2000@gmail.com",
+        "name": "Rajeev Kumar Sahoo ",
+        "amount": 3000
     },
     {
-        "Email address": "sunilkumarindia2015@gmail.com",
-        "Full Name": "Sunil Maharana",
-        "Amount": 700
+        "email": "sunilkumarindia2015@gmail.com",
+        "name": "Sunil Maharana",
+        "amount": 700
     },
     {
-        "Email address": "jayprakashswain18@gmail.com",
-        "Full Name": "Jaya Prakash Swain",
-        "Amount": 5000
+        "email": "jayprakashswain18@gmail.com",
+        "name": "Jaya Prakash Swain",
+        "amount": 5000
     },
     {
-        "Email address": "komalekapatra@gmail.com",
-        "Full Name": "Saloni Patra ",
-        "Amount": 4000
+        "email": "komalekapatra@gmail.com",
+        "name": "Saloni Patra ",
+        "amount": 4000
     },
     {
-        "Email address": "dipeshkumarbehera2000@gmail.com",
-        "Full Name": "Dipesh Kumar Behera ",
-        "Amount": 2000
+        "email": "dipeshkumarbehera2000@gmail.com",
+        "name": "Dipesh Kumar Behera ",
+        "amount": 2000
     },
     {
-        "Email address": "satyaranjandas361@gmail.com",
-        "Full Name": "Satyaranjan Das ",
-        "Amount": 2500
+        "email": "satyaranjandas361@gmail.com",
+        "name": "Satyaranjan Das ",
+        "amount": 2500
     },
     {
-        "Email address": "sandiptas75@gmail.com",
-        "Full Name": "Sandipta kumar Sahu",
-        "Amount": 300
+        "email": "sandiptas75@gmail.com",
+        "name": "Sandipta kumar Sahu",
+        "amount": 300
     },
     {
-        "Email address": "foodie.gourmet2022@gmail.com",
-        "Full Name": "Sonali Panda",
-        "Amount": 200
+        "email": "foodie.gourmet2022@gmail.com",
+        "name": "Sonali Panda",
+        "amount": 200
     },
     {
-        "Email address": "suravi241@gmail.com",
-        "Full Name": "Suravi Parida",
-        "Amount": 1500
+        "email": "suravi241@gmail.com",
+        "name": "Suravi Parida",
+        "amount": 1500
     },
     {
-        "Email address": "mrsitu055@gmail.com",
-        "Full Name": "Jyotiprakash sahoo ",
-        "Amount": 400
+        "email": "mrsitu055@gmail.com",
+        "name": "Jyotiprakash sahoo ",
+        "amount": 400
     },
     {
-        "Email address": "tribikramswain3s@gmail.com",
-        "Full Name": "Tribikram Swain ",
-        "Amount": 3000
+        "email": "tribikramswain3s@gmail.com",
+        "name": "Tribikram Swain ",
+        "amount": 3000
     },
     {
-        "Email address": "das.spandan73@gmail.com",
-        "Full Name": "Spandan das",
-        "Amount": 5000
+        "email": "das.spandan73@gmail.com",
+        "name": "Spandan das",
+        "amount": 5000
     },
     {
-        "Email address": "ankitapattnaik7777@gmail.com",
-        "Full Name": "Ankita Pattnaik ",
-        "Amount": 2000
+        "email": "ankitapattnaik7777@gmail.com",
+        "name": "Ankita Pattnaik ",
+        "amount": 2000
     },
     {
-        "Email address": "priyankabahalia@gmail.com",
-        "Full Name": "Priyanka Priyadarshini Bahalia ",
-        "Amount": 1000
+        "email": "priyankabahalia@gmail.com",
+        "name": "Priyanka Priyadarshini Bahalia ",
+        "amount": 1000
     },
     {
-        "Email address": "143ratikant143@gmail.com",
-        "Full Name": "Ratikant Behera",
-        "Amount": 1000
+        "email": "143ratikant143@gmail.com",
+        "name": "Ratikant Behera",
+        "amount": 1000
     },
     {
-        "Email address": "dassubu3@gmail.com",
-        "Full Name": "Subrat kumar dash",
-        "Amount": 1500
+        "email": "dassubu3@gmail.com",
+        "name": "Subrat kumar dash",
+        "amount": 1500
     },
     {
-        "Email address": "phenomenal15kc@gmail.com",
-        "Full Name": "Sameer ",
-        "Amount": 1500
+        "email": "phenomenal15kc@gmail.com",
+        "name": "Sameer ",
+        "amount": 1500
     },
     {
-        "Email address": "samesahu19@gmail.com",
-        "Full Name": "Sameer kumar sahu ",
-        "Amount": 150
+        "email": "samesahu19@gmail.com",
+        "name": "Sameer kumar sahu ",
+        "amount": 150
     },
     {
-        "Email address": "sahoodeepakkumar30@gmail.com",
-        "Full Name": "Deepak kumar sahoo ",
-        "Amount": 1200
+        "email": "sahoodeepakkumar30@gmail.com",
+        "name": "Deepak kumar sahoo ",
+        "amount": 1200
     },
     {
-        "Email address": "aray43949@gmail.com",
-        "Full Name": "Akash Ray",
-        "Amount": 3000
+        "email": "aray43949@gmail.com",
+        "name": "Akash Ray",
+        "amount": 3000
     },
     {
-        "Email address": "jeetnaik01@gmail.com",
-        "Full Name": "Sujit Naik",
-        "Amount": 300
+        "email": "jeetnaik01@gmail.com",
+        "name": "Sujit Naik",
+        "amount": 300
     },
     {
-        "Email address": "thebknaik@gmail.com",
-        "Full Name": "Bibek Kumar Naik ",
-        "Amount": 1000
+        "email": "thebknaik@gmail.com",
+        "name": "Bibek Kumar Naik ",
+        "amount": 1000
     },
     {
-        "Email address": "debarchan441@gmail.com",
-        "Full Name": "Debarchan Mishra ",
-        "Amount": 10000
+        "email": "debarchan441@gmail.com",
+        "name": "Debarchan Mishra ",
+        "amount": 10000
     },
     {
-        "Email address": "soumyasagarika.work@gmail.com",
-        "Full Name": "Soumya Sagarika",
-        "Amount": 10000
+        "email": "soumyasagarika.work@gmail.com",
+        "name": "Soumya Sagarika",
+        "amount": 10000
     },
     {
-        "Email address": "subhajit.dash1502@gmail.com",
-        "Full Name": "Subhajit Dash",
-        "Amount": 10000
+        "email": "subhajit.dash1502@gmail.com",
+        "name": "Subhajit Dash",
+        "amount": 10000
     },
     {
-        "Email address": "146satya@gmail.com",
-        "Full Name": "Satyabrat Mohapatra",
-        "Amount": 7000
+        "email": "146satya@gmail.com",
+        "name": "Satyabrat Mohapatra",
+        "amount": 7000
     },
     {
-        "Email address": "aniprince135@gmail.com",
-        "Full Name": "Aniket prasad rajak",
-        "Amount": 13000
+        "email": "aniprince135@gmail.com",
+        "name": "Aniket prasad rajak",
+        "amount": 13000
     },
     {
-        "Email address": "prayagsamal10@gmail.com",
-        "Full Name": "Prayag Samal",
-        "Amount": 6000
+        "email": "prayagsamal10@gmail.com",
+        "name": "Prayag Samal",
+        "amount": 6000
     },
     {
-        "Email address": "abhipsadash68@gmail.com",
-        "Full Name": "Abhipsa Dash",
-        "Amount": 800
+        "email": "abhipsadash68@gmail.com",
+        "name": "Abhipsa Dash",
+        "amount": 800
     },
     {
-        "Email address": "ashisharyankumar@gmail.com",
-        "Full Name": "Ashish kumar P",
-        "Amount": 4000
+        "email": "ashisharyankumar@gmail.com",
+        "name": "Ashish kumar P",
+        "amount": 4000
     },
     {
-        "Email address": "debasishsahoo362@gmail.com",
-        "Full Name": "Debasish Sahoo",
-        "Amount": 6000
+        "email": "debasishsahoo362@gmail.com",
+        "name": "Debasish Sahoo",
+        "amount": 6000
     },
     {
-        "Email address": "gyanajyotibehera2@gmail.com",
-        "Full Name": "Funny pratik ",
-        "Amount": 12500
+        "email": "gyanajyotibehera2@gmail.com",
+        "name": "Funny pratik ",
+        "amount": 12500
     },
     {
-        "Email address": "anishamallik10@gmail.com",
-        "Full Name": "Anisha Mallik",
-        "Amount": 4000
+        "email": "anishamallik10@gmail.com",
+        "name": "Anisha Mallik",
+        "amount": 4000
     },
     {
-        "Email address": "subha.pooja21@gmail.com",
-        "Full Name": "Subhashree Rout ",
-        "Amount": 5000
+        "email": "subha.pooja21@gmail.com",
+        "name": "Subhashree Rout ",
+        "amount": 5000
     },
     {
-        "Email address": "amaodisha01@gmail.com",
-        "Full Name": "Abhinav Mohanty",
-        "Amount": 15000
+        "email": "amaodisha01@gmail.com",
+        "name": "Abhinav Mohanty",
+        "amount": 15000
     },
     {
-        "Email address": "routsatyajit56@gmail.com",
-        "Full Name": "Satyajit rout",
-        "Amount": 1500
+        "email": "routsatyajit56@gmail.com",
+        "name": "Satyajit rout",
+        "amount": 1500
     },
     {
-        "Email address": "abinashmohanty1998@gmail.com",
-        "Full Name": "Abinash Mohanty ",
-        "Amount": 2500
+        "email": "abinashmohanty1998@gmail.com",
+        "name": "Abinash Mohanty ",
+        "amount": 2500
     },
     {
-        "Email address": "rashmidash514@gmail.com",
-        "Full Name": "Sneha Nanda ",
-        "Amount": 5000
+        "email": "rashmidash514@gmail.com",
+        "name": "Sneha Nanda ",
+        "amount": 5000
     },
     {
-        "Email address": "shreemaa201@gmail.com",
-        "Full Name": "Shree Maa Sai Maa ",
-        "Amount": 1000
+        "email": "shreemaa201@gmail.com",
+        "name": "Shree Maa Sai Maa ",
+        "amount": 1000
     },
     {
-        "Email address": "dmallik4424@gmail.com",
-        "Full Name": "Deepak Mallik",
-        "Amount": 1000
+        "email": "dmallik4424@gmail.com",
+        "name": "Deepak Mallik",
+        "amount": 1000
     },
     {
-        "Email address": "errajashree102@gmail.com",
-        "Full Name": "Rajashree Nayak ",
-        "Amount": 1000
+        "email": "errajashree102@gmail.com",
+        "name": "Rajashree Nayak ",
+        "amount": 1000
     },
     {
-        "Email address": "swati226swain@gmail.com",
-        "Full Name": "Swati Swain",
-        "Amount": 1500
+        "email": "swati226swain@gmail.com",
+        "name": "Swati Swain",
+        "amount": 1500
     },
     {
-        "Email address": "rohan.routray99@gmail.com",
-        "Full Name": "Abinash routray",
-        "Amount": 2500
+        "email": "rohan.routray99@gmail.com",
+        "name": "Abinash routray",
+        "amount": 2500
     },
     {
-        "Email address": "2041016041.dibyajyotipanda@gmail.com",
-        "Full Name": "Dibyajyoti Panda ",
-        "Amount": 20000
+        "email": "2041016041.dibyajyotipanda@gmail.com",
+        "name": "Dibyajyoti Panda ",
+        "amount": 20000
     },
     {
-        "Email address": "foodmood976@gmail.com",
-        "Full Name": "Sibani Behera",
-        "Amount": 3000
+        "email": "foodmood976@gmail.com",
+        "name": "Sibani Behera",
+        "amount": 3000
     },
     {
-        "Email address": "jagannathmahapatra297@gmail.com",
-        "Full Name": "Jagannath Mahapatra ",
-        "Amount": 4000
+        "email": "jagannathmahapatra297@gmail.com",
+        "name": "Jagannath Mahapatra ",
+        "amount": 4000
     },
     {
-        "Email address": "omritamishra.17@gmail.com",
-        "Full Name": "Omrita Mishra",
-        "Amount": 1250
+        "email": "omritamishra.17@gmail.com",
+        "name": "Omrita Mishra",
+        "amount": 1250
     },
     {
-        "Email address": "foodishah@gmail.com",
-        "Full Name": "Sinorita Dash",
-        "Amount": 3000
+        "email": "foodishah@gmail.com",
+        "name": "Sinorita Dash",
+        "amount": 3000
     },
     {
-        "Email address": "contactsachinshresta@gmail.com",
-        "Full Name": "Sachin Shresta",
-        "Amount": 3000
+        "email": "contactsachinshresta@gmail.com",
+        "name": "Sachin Shresta",
+        "amount": 3000
     },
     {
-        "Email address": "msankar9583@gmail.com",
-        "Full Name": "Sankar Maharana",
-        "Amount": 5000
+        "email": "msankar9583@gmail.com",
+        "name": "Sankar Maharana",
+        "amount": 5000
     },
     {
-        "Email address": "debimohapatra9932@gmail.com",
-        "Full Name": "Debiprasad Mohapatra ",
-        "Amount": 2500
+        "email": "debimohapatra9932@gmail.com",
+        "name": "Debiprasad Mohapatra ",
+        "amount": 2500
     },
     {
-        "Email address": "chandrakantaparida268@gmail.com",
-        "Full Name": "Chandrakanta Parida",
-        "Amount": 4500
+        "email": "chandrakantaparida268@gmail.com",
+        "name": "Chandrakanta Parida",
+        "amount": 4500
     },
     {
-        "Email address": "chandanadalai24@gmail.com",
-        "Full Name": "Chandana Dalai ",
-        "Amount": 4000
+        "email": "chandanadalai24@gmail.com",
+        "name": "Chandana Dalai ",
+        "amount": 4000
     },
     {
-        "Email address": "avipsa541@gmail.com",
-        "Full Name": "Avipsa Mohanty ",
-        "Amount": 4000
+        "email": "avipsa541@gmail.com",
+        "name": "Avipsa Mohanty ",
+        "amount": 4000
     },
     {
-        "Email address": "qtpriyanka8@gmail.com",
-        "Full Name": "priyanka priyadarshini sahoo",
-        "Amount": 5000
+        "email": "qtpriyanka8@gmail.com",
+        "name": "priyanka priyadarshini sahoo",
+        "amount": 5000
     },
     {
-        "Email address": "ashutoshrout2005@gmail.com",
-        "Full Name": "Ashutosh rout",
-        "Amount": 2000
+        "email": "ashutoshrout2005@gmail.com",
+        "name": "Ashutosh rout",
+        "amount": 2000
     },
     {
-        "Email address": "bubblesyettoburst223@gmail.com",
-        "Full Name": "Gourab Mohanty ",
-        "Amount": 1500
+        "email": "bubblesyettoburst223@gmail.com",
+        "name": "Gourab Mohanty ",
+        "amount": 1500
     },
     {
-        "Email address": "bhitriaamit09@gmail.com",
-        "Full Name": "Amit Bhitria ",
-        "Amount": 5000
+        "email": "bhitriaamit09@gmail.com",
+        "name": "Amit Bhitria ",
+        "amount": 5000
     },
     {
-        "Email address": "ashutoshm8093@gmail.com",
-        "Full Name": "Ashutosh Majhi",
-        "Amount": 1500
+        "email": "ashutoshm8093@gmail.com",
+        "name": "Ashutosh Majhi",
+        "amount": 1500
     },
     {
-        "Email address": "odishafoodcrush@gmail.com",
-        "Full Name": "Aayush Kumar",
-        "Amount": 3000
+        "email": "odishafoodcrush@gmail.com",
+        "name": "Aayush Kumar",
+        "amount": 3000
     },
     {
-        "Email address": "barikshakti132@gmail.com",
-        "Full Name": "Shakti Sankar Barik",
-        "Amount": 1200
+        "email": "barikshakti132@gmail.com",
+        "name": "Shakti Sankar Barik",
+        "amount": 1200
     },
     {
-        "Email address": "digalparamesh@gmail.com",
-        "Full Name": "PARAMESH DIGAL",
-        "Amount": 599
+        "email": "digalparamesh@gmail.com",
+        "name": "PARAMESH DIGAL",
+        "amount": 599
     },
     {
-        "Email address": "priyankabhadra7326@gmail.com",
-        "Full Name": "Priyanka Bhadra",
-        "Amount": 500
+        "email": "priyankabhadra7326@gmail.com",
+        "name": "Priyanka Bhadra",
+        "amount": 500
     },
     {
-        "Email address": "swapnil.nahak@gmail.com",
-        "Full Name": "Swapnil Nahak",
-        "Amount": 6000
+        "email": "swapnil.nahak@gmail.com",
+        "name": "Swapnil Nahak",
+        "amount": 6000
     },
     {
-        "Email address": "ssambitpal@gmail.com",
-        "Full Name": "Sambit pql",
-        "Amount": 300
+        "email": "ssambitpal@gmail.com",
+        "name": "Sambit pql",
+        "amount": 300
     },
     {
-        "Email address": "nilakhikt@gmail.com",
-        "Full Name": "Nilakhi patra",
-        "Amount": 15000
+        "email": "nilakhikt@gmail.com",
+        "name": "Nilakhi patra",
+        "amount": 15000
     },
     {
-        "Email address": "ansmita1903@gmail.com",
-        "Full Name": "Anmol Kumar Baliarsingh ",
-        "Amount": 5000
+        "email": "ansmita1903@gmail.com",
+        "name": "Anmol Kumar Baliarsingh ",
+        "amount": 5000
     },
     {
-        "Email address": "sambitsambit7777@gmail.com",
-        "Full Name": "Sambit Pal",
-        "Amount": 3000
+        "email": "sambitsambit7777@gmail.com",
+        "name": "Sambit Pal",
+        "amount": 3000
     },
     {
-        "Email address": "susandhyamohanty34@gmail.com",
-        "Full Name": "Susandhya Mohanty ",
-        "Amount": 5000
+        "email": "susandhyamohanty34@gmail.com",
+        "name": "Susandhya Mohanty ",
+        "amount": 5000
     },
     {
-        "Email address": "deepsajena345@gmail.com",
-        "Full Name": "Dipsa Swarupa Jena ",
-        "Amount": 4000
+        "email": "deepsajena345@gmail.com",
+        "name": "Dipsa Swarupa Jena ",
+        "amount": 4000
     },
     {
-        "Email address": "ananyaanuska7@gmail.com",
-        "Full Name": "Anuska Ananya ",
-        "Amount": 16000
+        "email": "ananyaanuska7@gmail.com",
+        "name": "Anuska Ananya ",
+        "amount": 16000
     },
     {
-        "Email address": "lovinanayak15@gmail.com",
-        "Full Name": "Lovina Nayak ",
-        "Amount": 50000
+        "email": "lovinanayak15@gmail.com",
+        "name": "Lovina Nayak ",
+        "amount": 50000
     },
     {
-        "Email address": "souravsahoo851@gmail.com",
-        "Full Name": "Sourav sahoo",
-        "Amount": 3500
+        "email": "souravsahoo851@gmail.com",
+        "name": "Sourav sahoo",
+        "amount": 3500
     },
     {
-        "Email address": "chinmayeepradhan67@gmail.com",
-        "Full Name": "Chinmayee Pradhan",
-        "Amount": 2500
+        "email": "chinmayeepradhan67@gmail.com",
+        "name": "Chinmayee Pradhan",
+        "amount": 2500
     },
     {
-        "Email address": "ankita99tripathy@gmail.com",
-        "Full Name": "Ankita Tripathy ",
-        "Amount": 4000
+        "email": "ankita99tripathy@gmail.com",
+        "name": "Ankita Tripathy ",
+        "amount": 4000
     },
     {
-        "Email address": "foodiea96@gmail.com",
-        "Full Name": "Amlan Jyoti Prakash Ray",
-        "Amount": 3000
+        "email": "foodiea96@gmail.com",
+        "name": "Amlan Jyoti Prakash Ray",
+        "amount": 3000
     },
     {
-        "Email address": "payalpreetisahoo.25@gmail.com",
-        "Full Name": "Payal Preeti Priyadarshini Sahoo",
-        "Amount": 3000
+        "email": "payalpreetisahoo.25@gmail.com",
+        "name": "Payal Preeti Priyadarshini Sahoo",
+        "amount": 3000
     },
     {
-        "Email address": "biswa420876@gmail.com",
-        "Full Name": "Fabulous_odisha",
-        "Amount": 5000
+        "email": "biswa420876@gmail.com",
+        "name": "Fabulous_odisha",
+        "amount": 5000
     },
     {
-        "Email address": "lijaranibarik09@gmail.com",
-        "Full Name": "Lijarani barik ",
-        "Amount": 2000
+        "email": "lijaranibarik09@gmail.com",
+        "name": "Lijarani barik ",
+        "amount": 2000
     },
     {
-        "Email address": "Payal6preeti@gmail.com",
-        "Full Name": "Payal Preeti Puspa",
-        "Amount": 1000
+        "email": "Payal6preeti@gmail.com",
+        "name": "Payal Preeti Puspa",
+        "amount": 1000
     },
     {
-        "Email address": "chai.traveller183@gmail.com",
-        "Full Name": "Debashish Mahapatra ",
-        "Amount": 1000
+        "email": "chai.traveller183@gmail.com",
+        "name": "Debashish Mahapatra ",
+        "amount": 1000
     },
     {
-        "Email address": "cravingsbbsr@gmail.com",
-        "Full Name": "Smruti Ranjan Sahoo ",
-        "Amount": 2000
+        "email": "cravingsbbsr@gmail.com",
+        "name": "Smruti Ranjan Sahoo ",
+        "amount": 2000
     },
     {
-        "Email address": "srittamnayak1998@gmail.com",
-        "Full Name": "SRITTAM NAYAK",
-        "Amount": 800
+        "email": "srittamnayak1998@gmail.com",
+        "name": "SRITTAM NAYAK",
+        "amount": 800
     },
     {
-        "Email address": "eatwithvansshu@gmail.com",
-        "Full Name": "Vanshika Arora",
-        "Amount": 4500
+        "email": "eatwithvansshu@gmail.com",
+        "name": "Vanshika Arora",
+        "amount": 4500
     },
     {
-        "Email address": "AARAGSAHU.OFFICIAL@GMAIL.COM",
-        "Full Name": "Aarag Kumar Sahu",
-        "Amount": 2500
+        "email": "AARAGSAHU.OFFICIAL@GMAIL.COM",
+        "name": "Aarag Kumar Sahu",
+        "amount": 2500
     },
     {
-        "Email address": "sworupamishra353@gmail.com",
-        "Full Name": "Sworupa Mishra ",
-        "Amount": 800
+        "email": "sworupamishra353@gmail.com",
+        "name": "Sworupa Mishra ",
+        "amount": 800
     },
     {
-        "Email address": "swetapatra97@gmail.com",
-        "Full Name": "Sweta Patra",
-        "Amount": 2500
+        "email": "swetapatra97@gmail.com",
+        "name": "Sweta Patra",
+        "amount": 2500
     },
     {
-        "Email address": "businessfoodaddictionas@gmail.com",
-        "Full Name": "Amiya biswal",
-        "Amount": 2000
+        "email": "businessfoodaddictionas@gmail.com",
+        "name": "Amiya biswal",
+        "amount": 2000
     },
     {
-        "Email address": "lionarkadeep11@gmail.com",
-        "Full Name": "Arkadeep parida ",
-        "Amount": 5000
+        "email": "lionarkadeep11@gmail.com",
+        "name": "Arkadeep parida ",
+        "amount": 5000
     },
     {
-        "Email address": "asishsamantray003@gmail.com",
-        "Full Name": "Asish Samantray ",
-        "Amount": 800
+        "email": "asishsamantray003@gmail.com",
+        "name": "Asish Samantray ",
+        "amount": 800
     },
     {
-        "Email address": "chandangarnaik123@gmail.com",
-        "Full Name": "Chandan Garnaik",
-        "Amount": 1800
+        "email": "chandangarnaik123@gmail.com",
+        "name": "Chandan Garnaik",
+        "amount": 1800
     },
     {
-        "Email address": "souravkumarparida01@gmail.com",
-        "Full Name": "Sourav kumar parida",
-        "Amount": 2000
+        "email": "souravkumarparida01@gmail.com",
+        "name": "Sourav kumar parida",
+        "amount": 2000
     },
     {
-        "Email address": "subhakantboity3@gmail.com",
-        "Full Name": "Subhakant Boity",
-        "Amount": 2000
+        "email": "subhakantboity3@gmail.com",
+        "name": "Subhakant Boity",
+        "amount": 2000
     },
     {
-        "Email address": "soumyashreesubham9028@gmail.com",
-        "Full Name": "Soumyashree Subham",
-        "Amount": 1500
+        "email": "soumyashreesubham9028@gmail.com",
+        "name": "Soumyashree Subham",
+        "amount": 1500
     },
     {
-        "Email address": "anitapatra262@gmail.com",
-        "Full Name": "Anita patra ",
-        "Amount": 800
+        "email": "anitapatra262@gmail.com",
+        "name": "Anita patra ",
+        "amount": 800
     },
     {
-        "Email address": "lipsatripathy004@gmail.com",
-        "Full Name": "Lipsa Tripathy",
-        "Amount": 4000
+        "email": "lipsatripathy004@gmail.com",
+        "name": "Lipsa Tripathy",
+        "amount": 4000
     },
     {
-        "Email address": "prajnasahu9911@gmail.com",
-        "Full Name": "Prajna sahu",
-        "Amount": 800
+        "email": "prajnasahu9911@gmail.com",
+        "name": "Prajna sahu",
+        "amount": 800
     },
     {
-        "Email address": "sankalpjena@gmail.com",
-        "Full Name": "Sankalp Kumar Jena",
-        "Amount": 3000
+        "email": "sankalpjena@gmail.com",
+        "name": "Sankalp Kumar Jena",
+        "amount": 3000
     },
     {
-        "Email address": "binaykumarbehera6@gmail.com",
-        "Full Name": "Binay Kumar Behera",
-        "Amount": 1200
+        "email": "binaykumarbehera6@gmail.com",
+        "name": "Binay Kumar Behera",
+        "amount": 1200
     },
     {
-        "Email address": "upasanaupali2@gmail.com",
-        "Full Name": "Upali Upasana ",
-        "Amount": 1200
+        "email": "upasanaupali2@gmail.com",
+        "name": "Upali Upasana ",
+        "amount": 1200
     },
     {
-        "Email address": "beautyofkeonjhar@gmail.com",
-        "Full Name": "Niranjan Naik ",
-        "Amount": 7000
+        "email": "beautyofkeonjhar@gmail.com",
+        "name": "Niranjan Naik ",
+        "amount": 7000
     },
     {
-        "Email address": "jagdev11avisekh20@gmail.com",
-        "Full Name": "Avisek Jagdev",
-        "Amount": 12000
+        "email": "jagdev11avisekh20@gmail.com",
+        "name": "Avisek Jagdev",
+        "amount": 12000
     }
 ]
